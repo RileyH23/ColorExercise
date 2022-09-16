@@ -1,0 +1,40 @@
+h1{
+    color:#FF00FF ;
+    background-color:red ;
+}
+h2{
+    color:#FF0 ;
+    background-color: orange;
+}
+h3{
+    color:#00FFAADD ;
+    background-color:yellow ;
+}
+h4{
+    color:#FABF ;
+    background-color:green ;
+}
+h5{
+    color:cornflowerblue ;
+    background-color:blue ;
+}
+h6{
+    color:rgb(150, 200, 132) ;
+    background-color:indigo ;
+}
+p{
+    color:rgba(105, 200, 150, 0.5) ;
+    background-color:violet ;
+}
+
+#li-one {
+    color: hotpink;
+}
+
+#li-three{
+    color: peachpuff;
+}
+
+.border{
+    border: 5px solid green;
+}
